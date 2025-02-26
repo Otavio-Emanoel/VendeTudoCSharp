@@ -15,6 +15,16 @@ namespace Calculadora_Console
         }
     }
     class Program
+        /* VendeTudo.com
+ * 1. Material Escolar  
+ * 2. Eletrodomesticos
+ * 3. IA
+ * 4. Material de Limpeza
+ *  
+ * Requisitos do programa:
+ *  Criar um menu de compras, que voce pode comprar 2 item por categoria
+ *  Deve conter pesquisadores, conversao, break, quebra de linha e fechar
+ */
     {
         static void Main(string[] args)
         {
